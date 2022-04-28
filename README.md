@@ -28,6 +28,8 @@
     * url?key=按键编码 , 其中具体的按键编码可以自己查询资料.
 * 输入法接口
 	* url?text=要输入的文本
+
+
 http://url:10086/key?keycode=按键编码 
 http://url:10086/text?text=要输入的文本
 核心类: RouterServer.java 、ServerInputMethodService.java .
